@@ -1,0 +1,7 @@
+TABLE# 43  GUEST COUNT: 3
+
+SEAT #: 1
+
+SEAT #: 2
+
+SEAT #: 3

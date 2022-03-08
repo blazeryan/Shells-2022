@@ -1,0 +1,5 @@
+TABLE# 25  GUEST COUNT: 2
+
+SEAT #: 1
+
+SEAT #: 2

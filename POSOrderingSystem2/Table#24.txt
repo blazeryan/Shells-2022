@@ -1,0 +1,17 @@
+TABLE# 24  GUEST COUNT: 1
+
+SEAT #: 1
+
+SEAT #: 2
+
+SEAT #: 3
+
+SEAT #: 4
+
+SEAT #: 1
+
+SEAT #: 2
+
+SEAT #: 3
+
+SEAT #: 4
