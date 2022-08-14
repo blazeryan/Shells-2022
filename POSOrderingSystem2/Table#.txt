@@ -16,3 +16,6 @@ SEAT #: 1
   GUEST COUNT: 1
 
 SEAT #: 1
+  GUEST COUNT: 1
+
+SEAT #: 1
