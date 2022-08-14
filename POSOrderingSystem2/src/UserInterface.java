@@ -30,6 +30,7 @@ import javafx.scene.text.FontWeight;
 
 public class UserInterface extends Application{
 	int gitTest = 1;
+	int gitTest1 = 2;
 	
 	int userInput = 0;
 
